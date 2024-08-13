@@ -1,2 +1,2 @@
-# ci-ncias-de-dados-
+# ciência-de-dados-
 Introdução Ciência de Dados
